@@ -1,0 +1,27 @@
+# Initialize local directory as Git repository
+git init
+
+# Add the files in the local repository and stages them for commit
+git add .
+
+# Commits the tracked changes and prepares them to be pushed to a remote repository
+commit -m 'First commit'
+
+# Sets the new remote
+git remote add origin <remote repository URL>
+
+# Verifies the new remote URL
+git remote -v
+
+# Pushes the changes in your local repository up to the remote repository you specified as the origin
+git push origin master
+
+
+
+
+# Pull latest files from repository
+git pull origin master
+
+
+
+
