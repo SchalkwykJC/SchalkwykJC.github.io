@@ -1,30 +1,22 @@
 [  
    {  
-      "title":"Taylor Swift",
-      "artist":"Taylor Swift",
-      "url":"https://www.amazon.com/Taylor-Swift/dp/B0014I4KH6",
-      "image":"http://schalkwykjc.github.io/img/cardbackgroundone.jpg",
-      "thumbnail_image":"https://i.imgur.com/K3KJ3w4h.jpg"
+      "title":"Reebok CrossFit Games",
+      "caption":"The CrossFit Games is an athletic competition sponsored by Crossfit Inc. and Reebok. The competition has been held every summer since 2007.",
+      "image":"http://schalkwykjc.github.io/img/cardbackgroundone.jpg"
    },
    {  
-      "title":"Fearless",
-      "artist":"Taylor Swift",
-      "url":"https://www.amazon.com/Fearless-Enhanced-Taylor-Swift/dp/B001EYGOEM",
-      "image":"http://schalkwykjc.github.io/img/cardbackgroundtwo.jpg",
-      "thumbnail_image":"https://i.imgur.com/K3KJ3w4h.jpg"
+      "title":"LMS Teams 2017",
+      "caption":"Last Man Standing is a brand for the community, by the community, to support the community in its endeavors to live a healthier type of lifestyle. Our vision is to create an all-inclusive global family through our various platforms.",
+      "image":"http://schalkwykjc.github.io/img/cardbackgroundtwo.jpg"
    },
    {  
-      "title":"Speak Now",
-      "artist":"Taylor Swift",
-      "url":"https://www.amazon.com/Speak-Now-Taylor-Swift/dp/B003WTE886",
-      "image":"http://schalkwykjc.github.io/img/cardbackgroundthree.jpg",
-      "thumbnail_image":"https://i.imgur.com/K3KJ3w4h.jpg"
+      "title":"News Title",
+      "caption":"Caption for news title that provides a snippet of information.",
+      "image":"http://schalkwykjc.github.io/img/cardbackgroundtwo.jpg"
    },
    {  
-      "title":"Red",
-      "artist":"Taylor Swift",
-      "url":"https://www.amazon.com/Red-Taylor-Swift/dp/B008XNZMOU",
-      "image":"http://schalkwykjc.github.io/img/cardbackgroundfour.jpg",
-      "thumbnail_image":"https://i.imgur.com/K3KJ3w4h.jpg"
+      "title":"News Title",
+      "caption":"Caption for news title that provides a snippet of information.",
+      "image":"http://schalkwykjc.github.io/img/cardbackgroundtwo.jpg"
    }
 ]
